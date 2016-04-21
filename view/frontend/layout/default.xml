@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <!--<block class="Aaron\NavText\Block\NavText" template="Aaron_NavText::navtext.phtml" name="navtext.prefix" group="navigation-sections" />
+
+        <move element="navtext.prefix" destination="global.notices"/>-->
+    </body>
+</page>
